@@ -36,11 +36,11 @@ Customer Insights Report highlights sales performance for each customer.
 Product Insights could not be performed as some of the product_codes were missing from the 'products' table. On further investigating it was discovered these product_codes had entries in the 'transactions' table.
 
 <img width="485" alt="product_missing1" src="https://github.com/nehasharma2513/PowerBI-SalesAnalysis/assets/142134132/b0206982-dc3b-47ab-9b98-c4aa664c76e3">
-<img width="363" alt="product_missing2" src="https://github.com/nehasharma2513/PowerBI-SalesAnalysis/assets/142134132/1c22c8cc-80d5-43f1-b819-6b6a795a57f1">
+<img width="363" alt="product_missing2" src="https://github.com/nehasharma2513/PowerBI-SalesAnalysis/assets/142134132/1c22c8cc-80d5-43f1-b819-6b6a795a57f1"> 
 
-<br/>
-Connect with me : [Neha Sharma](https://www.linkedin.com/in/nehasharma25)
-<br/>
+
+Connect with me : [Neha Sharma](https://www.linkedin.com/in/nehasharma25) 
+
 Credits: [CodeBasics](https://codebasics.io/resources/sales-insights-data-analysis-project)
 
 
